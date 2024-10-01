@@ -1,1 +1,1 @@
-# hierarchical-rag
+# Hierarchical RAG
